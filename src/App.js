@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './simarin.png';
 import './App.css';
 
 function App() {
@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This Site is Profile Site By Momoyama Tech Club
-        </p>
+        <h1>
+          マキマキ
+        </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
